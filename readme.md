@@ -1,5 +1,8 @@
-docker-compose up -d
+## Docker RabbitMQ
+docker-compose up -d<br><br>
 
-queue name = example-queue
-exchange name = example-exchange
+## RabbitMQ Config
+
+queue name = example-queue<br>
+exchange name = example-exchange<br>
 routing key = example-routingkey
